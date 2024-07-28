@@ -1,16 +1,20 @@
 <template>
-    <h1>this is Dashboard middle</h1>
-  </template>
+    <div class="row">
+        <div class="col">
+            <h1>this is Dashboard middle</h1>
+        </div>
+
+    </div>
+    
+</template>
   
-  <script>
-  export default {
+<script>
+export default {
     name: 'DashboardMiddle'
-  }
-  </script>
+}
+</script>
   
-  <style scoped>
-  h1 {
-    margin: 20px;
-  }
-  </style>
+<style >
+
+</style>
   

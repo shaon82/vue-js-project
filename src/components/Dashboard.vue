@@ -1,5 +1,5 @@
 <template>
-    <div class="dashboard-container">
+    <div class="container-fluid dashboard-container">
       <MainHeader></MainHeader>
       <div class="main-content d-flex">
         <MainSidebar></MainSidebar>
